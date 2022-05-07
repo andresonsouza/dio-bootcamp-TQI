@@ -1,5 +1,2 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o Desafio de Projeto
-
-## Links Uteis
-[Sitaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+# Repositório com Código dos Cursos da DIO
+Repositório criado para salvar os projetos dos cursos da DIO
